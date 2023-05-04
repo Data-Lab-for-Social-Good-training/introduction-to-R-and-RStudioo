@@ -43,6 +43,7 @@ The aim of this session was to give students a taste of how what they have learn
 
 ## Lesson/Session Plan (Work During Class Time)
 
+
 | **Time**
 
 **(from – to)** | **Duration**
@@ -50,11 +51,15 @@ The aim of this session was to give students a taste of how what they have learn
 **(Minutes)** | **Content** | **What learners will be doing** | **What you will be doing** | **How learning will be assessed** | **Materials / Resources needed** |
 | ------------------------- | --------------------------- | ----------- | ------------------------------- | -------------------------- | --------------------------------- | -------------------------------- |
 | 9-9:15                    |                             |             |                                 |                            |                                   |                                  |
-|                           |                             |             |                                 |                            |                                   |                                  |
-|                           |                             |             |                                 |                            |                                   |                                  |
-|                           |                             |             |                                 |                            |                                   |                                  |
-|                           |                             |             |                                 |                            |                                   |                                  |
-|                           |                             |             |                                 |                            |                                   |                                  |
-|                           |                             |             |                                 |                            |                                   |                                  |
-|                           |                             |             |                                 |                            |                                   |                                  |
-| …-10 :50                  |                             |             |                                 |                            |                                   |                                  |
+| 9:15-9:30                 |                             |             |                                 |                            |                                   |                                  |
+| 9:30-9:45                 |                             |             |                                 |                            |                                   |                                  |
+| 9:45-10:00                |                             |             |                                 |                            |                                   |                                  |
+| 10:00-10:15               |                             |             |                                 |                            |                                   |                                  |
+| 10:15-10:30               |                             |             |                                 |                            |                                   |                                  |
+| 10:30-11:00               |                             |             |                                 |                            |                                   |                                  |
+| 9-9:15                    |                             |             |                                 |                            |                                   |                                  |
+| 9:15-9:30                 |                             |             |                                 |                            |                                   |                                  |
+| 9:30-9:45                 |                             |             |                                 |                            |                                   |                                  |
+| 9:45-10:00                |                             |             |                                 |                            |                                   |                                  |
+| 10:00-10:15               |                             |             |                                 |                            |                                   |                                  |
+| 10:15-10:30               |                             |             |                                 |                            |                                   |                                  |
