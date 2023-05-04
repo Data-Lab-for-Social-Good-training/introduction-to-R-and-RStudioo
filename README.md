@@ -16,3 +16,45 @@ introduction to R and RStudio
 | 10      | Using tidyverse                       |            |
 | 11      | Getting help                          |            |
 |         |                                       |            |
+
+
+
+# Lesson plan
+
+## General infromation
+
+| Lesson/Session Name:                     | Creating a purchasing portfolio |
+| ---------------------------------------- | ------------------------------- |
+| Lesson/Session Type:                     |                                 |
+| Level                                    |                                 |
+| Module/Course Title                      |                                 |
+| Student Profile & Class Size             |                                 |
+| Date, Time & Room                        |                                 |
+| Module Learning Outcome (taken from MID) |                                 |
+| Lesson/Session Learning Outcomes         |                                 |
+| Martials needed                          |                                 |
+
+
+## Learning and Focus (Transformative Learning)
+
+The aim of this session was to give students a taste of how what they have learned in the lecture would be used in practice. We showed students how this technique is currently used in industry and may help them in their employment if they would like to work for a company with focus on procurement activities.
+
+## Pre-Session Learning Activities or Resources (Work At Home/Outside the Class):
+
+## Lesson/Session Plan (Work During Class Time)
+
+| **Time**
+
+**(from – to)** | **Duration**
+
+**(Minutes)** | **Content** | **What learners will be doing** | **What you will be doing** | **How learning will be assessed** | **Materials / Resources needed** |
+| ------------------------- | --------------------------- | ----------- | ------------------------------- | -------------------------- | --------------------------------- | -------------------------------- |
+| 9-9:15                    |                             |             |                                 |                            |                                   |                                  |
+|                           |                             |             |                                 |                            |                                   |                                  |
+|                           |                             |             |                                 |                            |                                   |                                  |
+|                           |                             |             |                                 |                            |                                   |                                  |
+|                           |                             |             |                                 |                            |                                   |                                  |
+|                           |                             |             |                                 |                            |                                   |                                  |
+|                           |                             |             |                                 |                            |                                   |                                  |
+|                           |                             |             |                                 |                            |                                   |                                  |
+| …-10 :50                  |                             |             |                                 |                            |                                   |                                  |
