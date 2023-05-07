@@ -1,54 +1,43 @@
-# introduction-to-R-andRStudioo
+# Introduction to R and RStudio
 
-introduction to R and RStudio
+# Course Outline
 
-+---------+---------------------------------------+-----------------------------------------------------+
-| Session | Tpoics                                | Sub-topics                                          |
-+=========+=======================================+=====================================================+
-| 1       | Install R and RStudio                 | -   Install R                                       |
-|         |                                       |                                                     |
-|         |                                       | -   Install RStudio                                 |
-|         |                                       |                                                     |
-|         |                                       | -   What is R                                       |
-|         |                                       |                                                     |
-|         |                                       | -   What is RStudio                                 |
-|         |                                       |                                                     |
-|         |                                       | -   RStudio enviroment                              |
-+---------+---------------------------------------+-----------------------------------------------------+
-| 2       | Create a project                      | -   how to create a project in Rstudio              |
-|         |                                       |                                                     |
-|         |                                       | -   Project management: organising folders          |
-|         |                                       |                                                     |
-|         |                                       | -   absolute versus relative path                   |
-+---------+---------------------------------------+-----------------------------------------------------+
-| 3       | 3 main tasks in data analysis using R | -   Writing codes                                   |
-|         |                                       |                                                     |
-|         |                                       | -   Execute codes and looking at outputs            |
-|         |                                       |                                                     |
-|         |                                       | -   Writing comments, interpretations, explanations |
-+---------+---------------------------------------+-----------------------------------------------------+
-| 4       | 3 important things to know in R       | -   Everything has a name                           |
-|         |                                       |                                                     |
-|         |                                       | -   Everything is an object                         |
-|         |                                       |                                                     |
-|         |                                       | -   you do things using functions                   |
-+---------+---------------------------------------+-----------------------------------------------------+
-| 5       | Working with Console                  |                                                     |
-+---------+---------------------------------------+-----------------------------------------------------+
-| 6       | Working with Rscript                  |                                                     |
-+---------+---------------------------------------+-----------------------------------------------------+
-| 7       | Working with Quarto                   |                                                     |
-+---------+---------------------------------------+-----------------------------------------------------+
-| 8       | Using base R                          |                                                     |
-+---------+---------------------------------------+-----------------------------------------------------+
-| 9       | Install and load packages             |                                                     |
-+---------+---------------------------------------+-----------------------------------------------------+
-| 10      | Using tidyverse                       |                                                     |
-+---------+---------------------------------------+-----------------------------------------------------+
-| 11      | Getting help                          |                                                     |
-+---------+---------------------------------------+-----------------------------------------------------+
-|         |                                       |                                                     |
-+---------+---------------------------------------+-----------------------------------------------------+
+# Session 1: Install R and RStudio
+# - Install R
+# - Install RStudio
+# - What is R
+# - What is RStudio
+# - RStudio environment
+
+# Session 2: Create a Project
+# - How to create a project in RStudio
+# - Project management: organizing folders
+# - Absolute versus relative path
+
+# Session 3: 3 Main Tasks in Data Analysis using R
+# - Writing codes
+# - Execute codes and looking at outputs
+# - Writing comments, interpretations, explanations
+
+# Session 4: 3 Important Things to Know in R
+# - Everything has a name
+# - Everything is an object
+# - You do things using functions
+
+# Session 5: Working with Console
+
+# Session 6: Working with R Script
+
+# Session 7: Working with Quarto
+
+# Session 8: Using Base R
+
+# Session 9: Install and Load Packages
+
+# Session 10: Using Tidyverse
+
+# Session 11: Getting Help
+
 
 # Lesson plan
 
